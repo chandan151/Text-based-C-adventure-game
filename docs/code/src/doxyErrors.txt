@@ -1,0 +1,128 @@
+/home/rols2720/Downloads/legion/include/Movements.h:12: warning: the name 'Movements' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/rols2720/Downloads/legion/include/BackPack.h:66: warning: Member backPack (variable) of class BackPack is not documented.
+/home/rols2720/Downloads/legion/include/BackPack.h:52: warning: argument 'item' of command @param is not found in the argument list of BackPack::checkBP(Item *)
+/home/rols2720/Downloads/legion/include/BackPack.h:63: warning: documented empty return type of BackPack::displayItems
+/home/rols2720/Downloads/legion/include/BackPack.h:32: warning: argument 'item' of command @param is not found in the argument list of BackPack::updateBackPackAdd(Item *)
+/home/rols2720/Downloads/legion/include/BackPack.h:39: warning: argument 'item' of command @param is not found in the argument list of BackPack::updateBackPackRemove(Item *)
+/home/rols2720/Downloads/legion/include/Character.h:17: warning: Member getName() (function) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:37: warning: Member name (variable) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:30: warning: argument 'string' of command @param is not found in the argument list of Character::setName(std::string)
+/home/rols2720/Downloads/legion/include/Character.h:17: warning: Member getName() (function) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:37: warning: Member name (variable) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:30: warning: argument 'string' of command @param is not found in the argument list of Character::setName(std::string)
+/home/rols2720/Downloads/legion/include/Environment.h:23: warning: Member getName() (function) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:53: warning: return type of member Environment::getPos is not documented
+/home/rols2720/Downloads/legion/include/Environment.h:88: warning: return type of member Environment::explore is not documented
+/home/rols2720/Downloads/legion/include/Environment.h:104: warning: Member environmentName (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:105: warning: Member environmentCompletion (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:106: warning: Member locationCompletion[4] (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:107: warning: Member position (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:91: warning: argument 'takes' of command @param is not found in the argument list of Environment::playMission(MainCharacter *, int)=0
+/home/rols2720/Downloads/legion/include/Environment.h:95: warning: return type of member Environment::playMission is not documented
+/home/rols2720/Downloads/legion/include/Environment.h:56: warning: argument 'position' of command @param is not found in the argument list of Environment::setLocationComp(int)
+/home/rols2720/Downloads/legion/include/Environment.h:36: warning: argument 'String' of command @param is not found in the argument list of Environment::setName(std::string)
+/home/rols2720/Downloads/legion/include/Environment.h:43: warning: argument 'position' of command @param is not found in the argument list of Environment::setPos(int)
+/home/rols2720/Downloads/legion/include/Environment.h:79: warning: argument 'takes' of command @param is not found in the argument list of Environment::viewMission(int)=0
+/home/rols2720/Downloads/legion/include/Environment.h:83: warning: return type of member Environment::viewMission is not documented
+/home/rols2720/Downloads/legion/include/Interaction.h:32: warning: argument 'MainCharacter' of command @param is not found in the argument list of Interaction::addToBP(MainCharacter *, Item *)
+/home/rols2720/Downloads/legion/include/Interaction.h:32: warning: argument 'item' of command @param is not found in the argument list of Interaction::addToBP(MainCharacter *, Item *)
+/home/rols2720/Downloads/legion/include/Interaction.h:55: warning: argument 'RealCharacter' of command @param is not found in the argument list of Interaction::attackFromPlayer(RealCharacter *, int)
+/home/rols2720/Downloads/legion/include/Interaction.h:55: warning: argument 'int' of command @param is not found in the argument list of Interaction::attackFromPlayer(RealCharacter *, int)
+/home/rols2720/Downloads/legion/include/Interaction.h:63: warning: argument 'RealCharacter' of command @param is not found in the argument list of Interaction::attackFromVillain(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/Interaction.h:63: warning: argument 'int' of command @param is not found in the argument list of Interaction::attackFromVillain(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/Interaction.h:48: warning: argument 'item' of command @param is not found in the argument list of Interaction::inspect(Item *)
+/home/rols2720/Downloads/legion/include/Interaction.h:40: warning: argument 'MainCharacter' of command @param is not found in the argument list of Interaction::removeFromBP(MainCharacter *, Item *)
+/home/rols2720/Downloads/legion/include/Interaction.h:40: warning: argument 'item' of command @param is not found in the argument list of Interaction::removeFromBP(MainCharacter *, Item *)
+/home/rols2720/Downloads/legion/include/Item.h:18: warning: Member ItemType (enumeration) of class Item is not documented.
+/home/rols2720/Downloads/legion/include/Item.h:58: warning: Member item (variable) of class Item is not documented.
+/home/rols2720/Downloads/legion/include/Item.h:51: warning: argument 'ItemType' of command @param is not found in the argument list of Item::description(Item::ItemType)
+/home/rols2720/Downloads/legion/include/Item.h:44: warning: argument 'ItemType' of command @param is not found in the argument list of Item::itemToString(Item::ItemType)
+/home/rols2720/Downloads/legion/include/Item.h:31: warning: argument 'ItemType' of command @param is not found in the argument list of Item::setItem(Item::ItemType)
+/home/rols2720/Downloads/legion/include/Character.h:17: warning: Member getName() (function) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/MainCharacter.h:21: warning: Member b (variable) of class MainCharacter is not documented.
+/home/rols2720/Downloads/legion/include/MainCharacter.h:22: warning: Member backpack (variable) of class MainCharacter is not documented.
+/home/rols2720/Downloads/legion/include/RealCharacter.h:53: warning: Member ammoCount (variable) of class RealCharacter is not documented.
+/home/rols2720/Downloads/legion/include/RealCharacter.h:54: warning: Member health (variable) of class RealCharacter is not documented.
+/home/rols2720/Downloads/legion/include/RealCharacter.h:55: warning: Member deathStatus (variable) of class RealCharacter is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:37: warning: Member name (variable) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:30: warning: argument 'string' of command @param is not found in the argument list of Character::setName(std::string)
+/home/rols2720/Downloads/legion/include/RealCharacter.h:47: warning: argument 'takes' of command @param is not found in the argument list of RealCharacter::updateHealth(int)
+/home/rols2720/Downloads/legion/include/Environment.h:23: warning: Member getName() (function) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:53: warning: return type of member Environment::getPos is not documented
+/home/rols2720/Downloads/legion/include/Mountain.h:67: warning: Member environmentName (variable) of class Mountain is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:105: warning: Member environmentCompletion (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:106: warning: Member locationCompletion[4] (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:107: warning: Member position (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Mountain.h:40: warning: documented empty return type of Mountain::explore
+/home/rols2720/Downloads/legion/include/Mountain.h:43: warning: argument 'MainCharacter' of command @param is not found in the argument list of Mountain::playMission(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/Mountain.h:43: warning: argument 'integer' of command @param is not found in the argument list of Mountain::playMission(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/Environment.h:56: warning: argument 'position' of command @param is not found in the argument list of Environment::setLocationComp(int)
+/home/rols2720/Downloads/legion/include/Environment.h:36: warning: argument 'String' of command @param is not found in the argument list of Environment::setName(std::string)
+/home/rols2720/Downloads/legion/include/Environment.h:43: warning: argument 'position' of command @param is not found in the argument list of Environment::setPos(int)
+/home/rols2720/Downloads/legion/include/Mountain.h:56: warning: argument 'Pointer' of command @param is not found in the argument list of Mountain::spiderAttack(MainCharacter *)
+/home/rols2720/Downloads/legion/include/Mountain.h:30: warning: argument 'integer' of command @param is not found in the argument list of Mountain::viewMission(int)
+/home/rols2720/Downloads/legion/include/Movements.h:50: warning: argument 'Pointer' of command @param is not found in the argument list of Movements::moveBackward(Environment *)
+/home/rols2720/Downloads/legion/include/Movements.h:57: warning: argument 'Pointer' of command @param is not found in the argument list of Movements::moveEnvironment(Environment *&, Environment *)
+/home/rols2720/Downloads/legion/include/Movements.h:57: warning: argument 'Pointer' of command @param is not found in the argument list of Movements::moveEnvironment(Environment *&, Environment *)
+/home/rols2720/Downloads/legion/include/Movements.h:43: warning: argument 'Pointer' of command @param is not found in the argument list of Movements::moveForward(Environment *)
+/home/rols2720/Downloads/legion/include/Movements.h:29: warning: argument 'Pointer' of command @param is not found in the argument list of Movements::moveLeft(Environment *)
+/home/rols2720/Downloads/legion/include/Movements.h:36: warning: argument 'Pointer' of command @param is not found in the argument list of Movements::moveRight(Environment *)
+/home/rols2720/Downloads/legion/include/NPC.h:23: warning: return type of member NPC::intro is not documented
+/home/rols2720/Downloads/legion/include/NPC.h:28: warning: return type of member NPC::helpMainCharacter is not documented
+/home/rols2720/Downloads/legion/include/Character.h:17: warning: Member getName() (function) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:37: warning: Member name (variable) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:30: warning: argument 'string' of command @param is not found in the argument list of Character::setName(std::string)
+/home/rols2720/Downloads/legion/include/Character.h:17: warning: Member getName() (function) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/RealCharacter.h:53: warning: Member ammoCount (variable) of class RealCharacter is not documented.
+/home/rols2720/Downloads/legion/include/RealCharacter.h:54: warning: Member health (variable) of class RealCharacter is not documented.
+/home/rols2720/Downloads/legion/include/RealCharacter.h:55: warning: Member deathStatus (variable) of class RealCharacter is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:37: warning: Member name (variable) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:30: warning: argument 'string' of command @param is not found in the argument list of Character::setName(std::string)
+/home/rols2720/Downloads/legion/include/RealCharacter.h:47: warning: argument 'takes' of command @param is not found in the argument list of RealCharacter::updateHealth(int)
+/home/rols2720/Downloads/legion/include/Character.h:17: warning: Member getName() (function) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:37: warning: Member name (variable) of class Character is not documented.
+/home/rols2720/Downloads/legion/include/Character.h:30: warning: argument 'string' of command @param is not found in the argument list of Character::setName(std::string)
+/home/rols2720/Downloads/legion/include/Environment.h:23: warning: Member getName() (function) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:53: warning: return type of member Environment::getPos is not documented
+/home/rols2720/Downloads/legion/include/SpaceColony.h:68: warning: Member environmentName (variable) of class SpaceColony is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:105: warning: Member environmentCompletion (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:106: warning: Member locationCompletion[4] (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:107: warning: Member position (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/SpaceColony.h:62: warning: argument 'Pointer' of command @param is not found in the argument list of SpaceColony::crackLock(MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceColony.h:40: warning: documented empty return type of SpaceColony::explore
+/home/rols2720/Downloads/legion/include/SpaceColony.h:43: warning: argument 'MainCharacter' of command @param is not found in the argument list of SpaceColony::playMission(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/SpaceColony.h:43: warning: argument 'integer' of command @param is not found in the argument list of SpaceColony::playMission(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/SpaceColony.h:56: warning: argument 'Pointer' of command @param is not found in the argument list of SpaceColony::sandStorm(MainCharacter *)
+/home/rols2720/Downloads/legion/include/Environment.h:56: warning: argument 'position' of command @param is not found in the argument list of Environment::setLocationComp(int)
+/home/rols2720/Downloads/legion/include/Environment.h:36: warning: argument 'String' of command @param is not found in the argument list of Environment::setName(std::string)
+/home/rols2720/Downloads/legion/include/Environment.h:43: warning: argument 'position' of command @param is not found in the argument list of Environment::setPos(int)
+/home/rols2720/Downloads/legion/include/SpaceColony.h:30: warning: argument 'n' of command @param is not found in the argument list of SpaceColony::viewMission(int)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:82: warning: argument 'takes' of command @param is not found in the argument list of SpaceGame::checkEndGame(Environment *, Environment *, Environment *)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:53: warning: argument 'char' of command @param is not found in the argument list of SpaceGame::checkValidInput(char[], const char *[], int)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:53: warning: argument 'char' of command @param is not found in the argument list of SpaceGame::checkValidInput(char[], const char *[], int)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:53: warning: argument 'it' of command @param is not found in the argument list of SpaceGame::checkValidInput(char[], const char *[], int)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:59: warning: return type of member SpaceGame::checkValidInput is not documented
+/home/rols2720/Downloads/legion/include/SpaceGame.h:62: warning: argument 'char' of command @param is not found in the argument list of SpaceGame::getValidInput(const char *[], int)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:62: warning: argument 'it' of command @param is not found in the argument list of SpaceGame::getValidInput(const char *[], int)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:67: warning: return type of member SpaceGame::getValidInput is not documented
+/home/rols2720/Downloads/legion/include/SpaceGame.h:88: warning: argument 'MainCharacter' of command @param is not found in the argument list of SpaceGame::intro(MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:40: warning: argument 'first' of command @param is not found in the argument list of SpaceGame::moveOptions(Environment *&, Environment *, Environment *, Environment *, Movements *, MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:40: warning: argument 'takes' of command @param is not found in the argument list of SpaceGame::moveOptions(Environment *&, Environment *, Environment *, Environment *, Movements *, MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:40: warning: argument 'MainChracter' of command @param is not found in the argument list of SpaceGame::moveOptions(Environment *&, Environment *, Environment *, Environment *, Movements *, MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:70: warning: argument 'Environment' of command @param is not found in the argument list of SpaceGame::viewOrPlayMission(MainCharacter *, Environment *)
+/home/rols2720/Downloads/legion/include/SpaceGame.h:70: warning: argument 'MainChracter' of command @param is not found in the argument list of SpaceGame::viewOrPlayMission(MainCharacter *, Environment *)
+/home/rols2720/Downloads/legion/include/Environment.h:23: warning: Member getName() (function) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:53: warning: return type of member Environment::getPos is not documented
+/home/rols2720/Downloads/legion/include/SpaceShip.h:68: warning: Member environmentName (variable) of class SpaceShip is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:105: warning: Member environmentCompletion (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:106: warning: Member locationCompletion[4] (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/Environment.h:107: warning: Member position (variable) of class Environment is not documented.
+/home/rols2720/Downloads/legion/include/SpaceShip.h:62: warning: argument 'Pointer' of command @param is not found in the argument list of SpaceShip::alienAttack(MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceShip.h:51: warning: argument 'Pointer' of command @param is not found in the argument list of SpaceShip::asteroidAttack(MainCharacter *)
+/home/rols2720/Downloads/legion/include/SpaceShip.h:40: warning: documented empty return type of SpaceShip::explore
+/home/rols2720/Downloads/legion/include/SpaceShip.h:43: warning: argument 'MainCharacter' of command @param is not found in the argument list of SpaceShip::playMission(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/SpaceShip.h:43: warning: argument 'integer' of command @param is not found in the argument list of SpaceShip::playMission(MainCharacter *, int)
+/home/rols2720/Downloads/legion/include/Environment.h:56: warning: argument 'position' of command @param is not found in the argument list of Environment::setLocationComp(int)
+/home/rols2720/Downloads/legion/include/Environment.h:36: warning: argument 'String' of command @param is not found in the argument list of Environment::setName(std::string)
+/home/rols2720/Downloads/legion/include/Environment.h:43: warning: argument 'position' of command @param is not found in the argument list of Environment::setPos(int)
+/home/rols2720/Downloads/legion/include/SpaceShip.h:30: warning: argument 'n' of command @param is not found in the argument list of SpaceShip::viewMission(int)
